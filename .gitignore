@@ -1,0 +1,4 @@
+email_history.db
+/vendor/
+.env
+settings.json
